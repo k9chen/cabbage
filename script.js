@@ -78,7 +78,7 @@ document.getElementById('medical-care-button').addEventListener('click', () => {
     updateCatStats(0, 20, `
  /\\_/\\
  ( o.o )
- (o.o)
+ (v v)
 `);
     setTimeout(() => resetCatArt(), 1000);
 });
