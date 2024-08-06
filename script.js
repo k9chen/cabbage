@@ -17,7 +17,7 @@ document.getElementById('feed-button').addEventListener('click', () => {
     updateCatStats(10, 5, `
  /\\_/\\
  ( o.o )
- > ^ <
+ > o <
 `);
 });
 
